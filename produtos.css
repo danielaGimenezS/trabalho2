@@ -9,6 +9,7 @@ header {
 	margin: 0 auto;
 }
 
+
 .logo{
     width: 20%;
 }
@@ -22,6 +23,17 @@ nav {
 nav li {
 	display: inline;
 	margin: 0 0 0 15px;
+}
+
+.logo{
+    width: 20%
+}
+
+
+
+
+.logo{
+	width: 20%
 }
 
 nav a {

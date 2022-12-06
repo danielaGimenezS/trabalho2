@@ -3,8 +3,13 @@
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #D8BFD8;
 	padding: 30px;
+}
+
+
+.logo{
+	width: 55%;
 }
 
 .titulo-principal {
@@ -12,7 +17,7 @@
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
 }
 
 p {
